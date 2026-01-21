@@ -284,12 +284,6 @@ flutter build linux
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## Contributing
 
 Pull requests are welcome.
@@ -304,3 +298,4 @@ Open an issue in the repository for support.
 
 **CookBook** 🍽️
 Share Your Culinary Creations!
+
